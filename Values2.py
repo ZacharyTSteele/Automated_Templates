@@ -1,0 +1,108 @@
+# USGS46 - Changes over time #
+USGS46_d17= -15.6579
+USGS46_d18= -29.4758
+USGS46_2H= -235.047
+USGS46_D_Excess= 0.7598
+USGS46_E17= 0.015441
+# USGS46a - Changes over time #
+USGS46a_d17= -16.25599712
+USGS46a_d18= -30.58008092
+USGS46a_2H= -238.4339498
+USGS46a_D_Excess= 6.206697603
+USGS46a_E17= 0.008735956
+# USGS47 - Changes over time #
+USGS47_d17= -10.61203441
+USGS47_d18= -20.06883145
+USGS47_2H= -151.5601307
+USGS47_D_Excess= 8.990520975
+USGS47_E17= 0.035372015
+# USGS48 - Changes over time #
+USGS48_d17= -1.160130681
+USGS48_d18= -2.237237086
+USGS48_2H= -2.227171317
+USGS48_D_Excess= 15.67072537
+USGS48_E17= 0.021780449
+# USGS50 - Fixed - Hutchings & Konecky 2023 #
+USGS50_d17= 2.636129619
+USGS50_d18= 5.003486953
+USGS50_2H= 32.24506541
+USGS50_D_Excess= -7.782830213
+USGS50_E17= -0.002592668
+# VSMOW - Fixed #
+VSMOW_d17= 0
+VSMOW_d18= 0
+VSMOW_2H= 0
+VSMOW_D_Excess= 0
+VSMOW_E17= 0
+# SLAP - Fixed adjusted E17O #
+SLAP_d17= -29.6968
+SLAP_d18= -55.5
+SLAP_2H= -427.5
+SLAP_D_Excess= 16.5
+SLAP_E17= 0.00190559
+# MegaBoil - Changes over time #
+Real_MegaBoil_d17= 4.479326923
+Real_MegaBoil_d18= 8.542868507
+Real_MegaBoil_2H= 17.03946782
+Real_MegaBoil_D_Excess= -51.30348024
+Real_MegaBoil_E17= -0.022152044
+# SupremeBoil - Changes over time #
+Supreme_Boil_d17= 3.359357424
+Supreme_Boil_d18= 6.367633655
+Supreme_Boil_2H= 12.7537845
+Supreme_Boil_D_Excess= -38.18728473
+Supreme_Boil_E17= 0.002275965
+# Kona Deep - Changes over time #
+RealKD_d17= 0.191875956
+RealKD_d18= 0.367182611
+RealKD_2H= 1.340221165
+RealKD_D_Excess= -1.597239723
+RealKD_E17= -0.001979308
+# DI Water - Changes over time #
+DI_Water_d17= -1.561353201
+DI_Water_d18= -2.991888337
+DI_Water_2H= -18.84571086
+DI_Water_D_Excess= 5.089395837
+DI_Water_E17= 0.019511543
+# DI Seat - Changes over time #
+DI_Seat_d17= -3.446354356
+DI_Seat_d18= -6.568175411
+DI_Seat_2H= -45.49071294
+DI_Seat_D_Excess= 7.05469035
+DI_Seat_E17= 0.027129318
+# Seat_W - Changes over time#
+SeatW_d17= -5.341542326
+SeatW_d18= -10.17072728
+SeatW_2H= -72.29230017
+SeatW_D_Excess= 9.073518078
+SeatW_E17= 0.041780424
+# Ice Lava - Changes over time#
+IceLava_d17= -4.509428916
+IceLava_d18= -8.606892036
+IceLava_2H= -58.389653
+IceLava_D_Excess= 10.46548329
+IceLava_E17= 0.044481645
+# NM2 - Changes over time#
+NM2_d17= -6.895454006
+NM2_d18= -13.05711304
+NM2_2H= -96.67573603
+NM2_D_Excess= 7.781168321
+NM2_E17= 0.020222721
+# Miss MT - Changes over time#
+MissMT_d17= -9.138786549
+MissMT_d18= -17.30657636
+MissMT_2H= -131.7630992
+MissMT_D_Excess= 6.68951166
+MissMT_E17= 0.037068211
+# # Mule Deer Standard - Changes over time#
+Muley_Standard_d17= 0.682035190814258
+Muley_Standard_d18= 1.55140964144187
+Muley_Standard_2H= -32.6823376289819
+Muley_Standard_D_Excess= -45.0936147605169
+Muley_Standard_E17= -0.136706838991955
+## EliteBoil - Changes over time
+Elite_Boil_d17=6.930351053
+Elite_Boil_d18=13.26030504
+Elite_Boil_2H=29.52171399
+Elite_Boil_D_Excess= -76.5607263
+Elite_Boil_E17= -0.048980174
